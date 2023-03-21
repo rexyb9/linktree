@@ -1,0 +1,29 @@
+#Arkha {
+  padding-top: 130px;
+}
+
+.nama {
+  padding-top: 0.5cm;
+}
+
+.prof {
+  padding-top: 0.5cm;
+}
+
+.des {
+  padding-top: 0.5cm;
+}
+
+.button {
+  padding-top: 0.5cm;
+}
+
+.btn {
+  border-radius: 40px;
+}
+
+body {
+  background-image: url(/bg-2.jpg);
+  position: center;
+  background-size: cover;
+}
